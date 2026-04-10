@@ -176,11 +176,7 @@ usb-security-shield/
 
 ## 🔮 Future Scope
 
-- [ ] Email / SMS alert on unauthorized access attempt
-- [ ] Logging of detected device IDs with timestamps
-- [ ] Whitelist trusted device IDs (skip prompt for known devices)
 - [ ] Biometric authentication support
-- [ ] Linux and macOS compatibility
 - [ ] GUI settings panel for easier configuration
 - [ ] System tray icon with live status indicator
 - [ ] AI-powered anomaly detection for unknown device types
